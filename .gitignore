@@ -2,6 +2,8 @@ data/videos/
 data/raw_frames/
 data/processed_frames/
 data/test_videos/
+data/features.npy
+data/labels.npy
 
 # Zip files
 src/Zip1.zip
