@@ -1,0 +1,16 @@
+data/videos/
+data/raw_frames/
+data/processed_frames/
+data/test_videos/
+
+# Zip files
+src/Zip1.zip
+src/Zip2.zip
+
+# Python cache
+src/__pycache__/
+__pycache__/
+*.pyc
+
+# Uploads
+src/uploads/
